@@ -1,0 +1,7 @@
+#Write the program to convert kilometers into centimeters.
+
+kilometers=int(input('enter distance in kilometers'))
+
+centimeters=100000*kilometers
+
+print("distance in centimeters:",centimeters)
